@@ -12,8 +12,8 @@ navLinks.forEach (link => {
 });
 
 // For sticky header
-var scroll_pos = 0;
-var scroll_time;
+// var scroll_pos = 0;
+// var scroll_time;
 
 // $(window).scroll(function() {
 //     clearTimeout(scroll_time);
